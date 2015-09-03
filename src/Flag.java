@@ -18,7 +18,7 @@ public class Flag extends JFrame {
 		setSize(1000, 1000);
 		setBackground(Color.WHITE);
 		repaint();
-		
+		//hi
 		
 	}
 }
